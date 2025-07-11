@@ -22,13 +22,13 @@ mixing up creativity and tech, with an eye on what’s next in cybersecurity.
 * **cybersecurity** (gonna focus on this soon)
 * **graphic design** (like for thumbnails, branding, general visuals)
 * **creative writing, translation & adaptation**
-* **community stuff** (setting up discord servers, managing them, making them work better)
+* **community stuff** (setting up highly secured discord servers, managing them, making them work better)
 
 ---
 
 ## random facts & things that inspire me
 
-* i’m really into *a plague tale* its world and how it looks.
+* i’m really into *[a plague tale](https://aplaguetale.qzz.io/)* its world and how it looks.
 * love projects that bring together tech, art, and people.
 * always looking for new ways to tell stories and just get to know folks more.
 
