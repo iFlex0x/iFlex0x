@@ -1,40 +1,42 @@
 # hey, i’m iflex
 
-**content creator (sorta)** | **creative project lead** | **student**
-mixing up creativity and tech, with an eye on what’s next in cybersecurity.
+**content creator (Used to be, no time for it now)** | **creative project lead** | **student**
+mixing up creativity and tech, with an eye lookong next on cybersecurity.
 
 ---
 
 ## about me
 
-* creative at heart, leading and launching personal brand stuff, designing how things look, and helping manage some pretty active communities.
-* trying to get into cybersecurity—learning a bunch right now and kinda planning to jump deep into cyber defense.
+* creative at heart, leading and launching visual personal brand stuff, designing how things look, and helping manage some pretty active communities.
+* trying to get into cybersecurity & learning the starters right now and kinda planning to jump deep into cyber defense.
 * i write, translate, and adapt things.
-* i used to be really into ai workflows for content, visuals, and getting things done faster. (but not so much anymore, obviously)
 
 **motto:**
 > “make it meaningful or don’t make it at all.”
 
 ---
 
-## skills & stuff i focus on
+## general stuff i focus on:
 
 * **cybersecurity** (gonna focus on this soon)
 * **graphic design** (like for thumbnails, branding, general visuals)
 * **creative writing, translation & adaptation**
-* **community stuff** (setting up highly secured discord servers, managing them, making them work better)
+* **community stuff** (setting up highly secured discord servers, managing them, making them automated and better)
 
 ---
 
-## random facts & things that inspire me
+## random facts & things that inspire me:
 
-* i’m really into *[a plague tale](https://aplaguetale.qzz.io/)* its world and how it looks.
+* i’m really into *[A Plague Tale](https://aplaguetale.qzz.io/)* its world, story and how it looks.
 * love projects that bring together tech, art, and people.
 * always looking for new ways to tell stories and just get to know folks more.
+* my name iFlex is not an inspiration from apple devices (i actually hate them), its instead a combo of 2 online names i used, half of which is basically "iFlex"
+* i look depressed, but im not, thats the default expression and way of communicating for me, no hard feelings.
+* its hard to get to know me more than just an online temporary friend, trust issues ate awayq0
 
 ---
 
-## connect with me
+## connect with me:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/cPCEAPhcYy)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/SaiFlex_1)
