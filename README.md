@@ -17,7 +17,7 @@ combining technology and creativity, with interest in looking forward to cyberse
 * **cybersecurity** (will return to it later)
 * **graphical design** (e.g., for thumbnails, branding, visuals in general)
   *creative writing, translation & adaptation*
-* **community stuff** (setting up super secured discord servers, maintaining them, making them automated and better)
+* **community stuff** (setting up super secured discord servers, managing communities, maintaining them, making them automated and better)
 
 ## random facts & things that inspire me:
 
@@ -33,9 +33,9 @@ combining technology and creativity, with interest in looking forward to cyberse
 connect with me:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/invite/cPCEAPhcYy)
-[![X](https://img.shields.io/badge/X-000000?logo=x\&logoColor=white)](https://x.com/SaiFlex_1)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/@saiflex) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/saiflex.8/) 
+[![X](https://img.shields.io/badge/X-000000?logo=x\&logoColor=white)](https://x.com/iflex0x)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/@iflex0x) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/iflex0x/) 
 [![Support Me](https://img.shields.io/badge/PayPal-00457C?logo=paypal\&logoColor=white)](https://www.paypal.com/paypalme/iflex8)
 
 ---
