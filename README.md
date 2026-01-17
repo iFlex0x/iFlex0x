@@ -26,7 +26,7 @@ combining technology and creativity, with interest in looking forward to cyberse
 * always finding new ways of storytelling and just learning to better know people.
 * my handle iFlex is NOT from apples (i actually despise them), it's actually a combination of 2 nethandles i used, half of it actually being "iFlex"
 * i look depressed, but im not, thats the default face and method of communication for me, no hard feelings.
-* it is hard to get to know me more intimately than just another anonymous virtual transient friend, trust issues ate me inside ou ;d
+* it is hard to get to know me more intimately than just another anonymous virtual transient friend, trust issues ate me inside out ;d
 
 ---
 
