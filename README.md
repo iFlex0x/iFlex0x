@@ -40,4 +40,4 @@ connect with me:
 
 ---
 
-> the wounds that we keep them, that we may never forget.
+> the scars we keep them, so we don't forget.
